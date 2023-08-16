@@ -1,0 +1,120 @@
+/* =========== GLOBAL CSS ===========  */
+.text-center {
+  text-align: center;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.text-red {
+  color: red;
+}
+.container {
+  max-width: 960px;
+  margin: 0px auto;
+}
+/* ---- Khoảng cách - Khoảng trống ---- */
+.pd-10 {
+  padding: 10px;
+}
+.pd-15 {
+  padding: 15px;
+}
+.pd-20 {
+  padding: 20px;
+}
+.pd-25 {
+  padding: 25px;
+}
+
+.pd-tb-10 {
+  padding: 10px 0px 10px 0px;
+}
+.pd-tb-15 {
+  padding: 15px 0px 15px 0px;
+}
+.pd-tb-20 {
+  padding: 20px 0px 20px 0px;
+}
+.pd-tb-25 {
+  padding: 25px 0px 25px 0px;
+}
+
+.pd-rl-10 {
+  padding: 0px 10px 0px 10px;
+}
+.pd-rl-15 {
+  padding: 0px 15px 0px 15px;
+}
+.pd-rl-20 {
+  padding: 0px 20px 0px 20px;
+}
+.pd-rl-25 {
+  padding: 0px 25px 0px 25px;
+}
+/* ---------------------------------- */
+.mg-10 {
+  margin: 10px;
+}
+.mg-15 {
+  margin: 15px;
+}
+.mg-20 {
+  margin: 20px;
+}
+.mg-25 {
+  margin: 25px;
+}
+
+.mg-tb-10 {
+  margin: 10px 0px 10px 0px;
+}
+.mg-tb-15 {
+  margin: 15px 0px 15px 0px;
+}
+.mg-tb-20 {
+  margin: 20px 0px 20px 0px;
+}
+.mg-tb-25 {
+  margin: 25px 0px 25px 0px;
+}
+
+.mg-rl-10 {
+  margin: 0px 10px 0px 10px;
+}
+.mg-rl-15 {
+  margin: 0px 15px 0px 15px;
+}
+.mg-rl-20 {
+  margin: 0px 20px 0px 20px;
+}
+.mg-rl-25 {
+  margin: 0px 25px 0px 25px;
+}
+
+/* ---- color font ----- */
+.text-white{
+    color: white;
+}
+
+/* ---- Background Color ---- */
+.bg-blue {
+  background-color: #40739e;
+}
+.bg-red {
+  background-color: #e84118;
+}
+
+/* ----- Fix basic -----  */
+.d-flex {
+  display: flex;
+}
+
+.img-100 {
+  max-width: 100%;
+  height: auto;
+}
+
+
+/* ---------- CSS Phần 1: Nhập môn lập trình ----------- */
